@@ -61,7 +61,9 @@ export function SignUpForm({
       <Card>
         <CardHeader className="text-center">
           <CardTitle className="text-2xl">Sign up</CardTitle>
-          <CardDescription>Création d'un compte utilisateur</CardDescription>
+          <CardDescription>
+            Création d&apos;un compte utilisateur
+          </CardDescription>
         </CardHeader>
 
         <CardContent>

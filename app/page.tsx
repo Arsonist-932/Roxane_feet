@@ -20,14 +20,14 @@ const HomePage = () => {
               <h2 className="pb-2 text-2xl">A propos de moi</h2>
 
               <p className="">
-                Moi c'est Roxane, jeune créatrice de contenu française de 23
-                ans, passionné par l&apos;art et l&apos;expression créative
+                Moi c&apos;est Roxane, jeune créatrice de contenu française de
+                23 ans, passionné par l&apos;art et l&apos;expression créative
               </p>
 
               <p>
                 À travers mes projets, je cherche à capturer l’émotion,
-                l’instant et l’authenticité. Je vous souhaite la bienvenue dans
-                mon univers.
+                l&apos;instant et l’authenticité. Je vous souhaite la bienvenue
+                dans mon univers.
               </p>
             </div>
           </div>
