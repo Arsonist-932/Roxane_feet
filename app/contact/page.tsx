@@ -28,8 +28,8 @@ const ContactPage = () => {
     setTimeout(() => {
       setIsSucces(false);
       setIsPending(false);
-      // router.push("/");
-    }, 1000);
+      router.push("/");
+    }, 4000);
   };
 
   return (
@@ -55,8 +55,8 @@ const ContactPage = () => {
 
               <CardContent>
                 Merci pour votre message, je vous répondrais au plus vite !
-                N'hésitez pas à consulter vos spams si vous n'avez pas de
-                réponse sous 72h.
+                N&apos;hésitez pas à consulter vos spams si vous n&apos;avez pas
+                de réponse sous 72h.
               </CardContent>
             </Card>
           </div>
